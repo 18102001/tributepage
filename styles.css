@@ -1,0 +1,63 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+h1{
+  padding: 20px;
+  font-family: Arial;
+}
+h3{
+  font-size: 20px;
+  background-color: #13151f;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+}
+body{
+  background-color: #03050f;
+  padding: 10px;
+  color: white;
+  font-family: -apple-system,Blinkmacsystem,Ubuntu;
+  text-align: center
+
+
+}
+.img-container{
+  margin: auto;
+  padding: 30px;
+  background-color: #002;
+  
+}
+.kalam-img{
+  object-fit: contain;
+  boarder-radius: 10px;
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+}
+.caption{
+  padding-top: 5px;
+  
+}
+.life{
+  font-size:20px;
+ padding: 30px 70px;
+  max-width: 600px;
+  margin: 10px auto;
+  background-color: #002;
+
+}
+.life-header{
+  font-size: 20x;
+  font-family: Arial;
+  padding: 30px;
+
+
+} 
+li{
+  margin: 20px;
+}
+a{
+  color: #99f;
+}
